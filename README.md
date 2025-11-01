@@ -1,1 +1,1 @@
-# Iterator
+# Java Iterator Pattern Implementation
